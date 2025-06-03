@@ -1,0 +1,7 @@
+Using Chain-of-Thought reasoning technic analyze set of requirements for the application? choose and proof the most relevant type of database
+Requirements:
+- Social platform with millions of users
+- Need to store profiles, posts, and connections between users
+- High data read speed required
+- Expected 80% read operations, 20% write operations
+- Scalability is important as the user base grows
