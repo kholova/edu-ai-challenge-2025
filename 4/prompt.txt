@@ -1,0 +1,5 @@
+Hi, imagine you are an expert in role of:
+1. Experiences Developer
+2. Security engineer
+3. Performance specialist
+You have a code for review , analyze this code from perspective of each of three roles sequentially, provide specific, actionable recommendations and observations to improve the code.
