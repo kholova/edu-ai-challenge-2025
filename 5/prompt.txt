@@ -1,0 +1,6 @@
+Read reddit post https://www.reddit.com/r/MouseReview/comments/1cbxaws/my_razer_viper_v3_pro_review_after_24h/
+task_5_input.docx contains example of analyzing feedbacks to the post
+ Analyze given feedbacks (Sample 1, Sample 2) according the example ONLY if they are relevant to the product, if not set false to isRelevant
+and provide result in json format:
+Sample 1: "Sensor just stops tracking for like a half second kinda often even at 8000hz. I've also tried it plugged in and still the same problem. First one I got I had to return also because the dongle just didnt work, $150 mouse btw"
+Sample 2: "Is it worth it? It is a product with no flaws in my opinion, if you love it go for it, but its not worth the price since you'll be able to perform the same with a cheaper product with half the specs."

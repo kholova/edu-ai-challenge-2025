@@ -1,0 +1,42 @@
+{
+  "Sample 1": {
+    "sentiment": "Negative",
+    "isRelevant": true,
+    "mainSubject": "Sensor and connectivity issues",
+    "positives": [],
+    "painPoints": [
+      "Sensor stops tracking intermittently",
+      "Issue persists even when plugged in",
+      "Dongle malfunction (previous unit)"
+    ],
+    "improvementSuggestions": [
+      "Fix sensor tracking reliability",
+      "Ensure dongle functionality"
+    ],
+    "featuresMentioned": [
+      "Sensor performance",
+      "Connectivity",
+      "Build quality"
+    ],
+    "userExpertise": "Experienced"
+  },
+  "Sample 2": {
+    "sentiment": "Neutral",
+    "isRelevant": true,
+    "mainSubject": "Value proposition",
+    "positives": [
+      "No flaws in product performance"
+    ],
+    "painPoints": [
+      "Overpriced compared to cheaper alternatives"
+    ],
+    "improvementSuggestions": [
+      "Adjust pricing to better reflect value"
+    ],
+    "featuresMentioned": [
+      "Price",
+      "Performance"
+    ],
+    "userExpertise": "Experienced"
+  }
+}
